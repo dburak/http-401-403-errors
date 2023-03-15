@@ -1,5 +1,5 @@
 # http-40x-status
-Very good presentation of HTTP 40x errors
+Very good presentation of HTTP 401 and 403 errors
 
     +-----------------------
     | RESOURCE EXISTS ? (if private it is often checked AFTER auth check)
